@@ -4,10 +4,14 @@
 
 ## 1. Keywords selected
 
-- "ecological information systems" : We got the 13th chapter of **"Handbook of Human-Computer Interaction (Second Edition)"**, it presents a design of work that is ecological in the way of time, freedom and many other modern things
-
-- "sustainable development in IT" : I got an article called **"Relevance of Branding of Green IT for Sustainable Development of IT Companies"** which is about the importance of branding of green IT for sustainable development of IT companies
-
+- Banking
+- IT
+- Energy
+- transfer
+- cloud
+- green
+- ecology
+- development
 - "sustainable development in banking" : There is a few articles about that domain which I am working with. **"Stakeholder engagement for sustainable development in banking industry. An Italian case study"** by M. Pellicano sums the impact and the influence of socials media in sustainable development of banking industry.
 
 ## 2. Compile  a  reference  list  of  10  scientific  publications
@@ -52,8 +56,11 @@ The criteria to start a literature review on my subject is to find a research qu
 - Sustainable development : Sustainable development is the development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 - Banking : Banking is the activity of providing loans and other financial services to customers.
 - Development : Development is the process of improving the quality of life of the people through economic growth, improved standards of living, and advanced technological development. In our way, it can be used for software, infrastructure development or development in evolution way.
-- Future`
+- Future : It's the main purpose of all these publications, to have a better future for the next generations.
 
 ## 7. Find the main further works on your topic
 
-
+- [Unfolding Stakeholder Engagement,
+By Jörg Andriof, Sandra Waddock](taylorfrancis.com/chapters/edit/10.4324/9781351281881-2/unfolding-stakeholder-engagement-jörg-andriof-sandra-waddock)
+- [Exploring the Strategic Integration of Sustainability Initiatives: Opportunities for Accounting Research, by Brian Ballou, Ryan J. Casey, Jonathan H. Grenier, Dan L. Heitger](https://meridian.allenpress.com/accounting-horizons/article-abstract/26/2/265/99214/Exploring-the-Strategic-Integration-of)
+- [Exploring the Strategic Integration of Sustainability Initiatives: Opportunities for Accounting Research, by Julia Bertelsmann](https://books.google.fr/books?hl=fr&lr=&id=mT0fAQAAQBAJ&oi=fnd&pg=PA75&dq=Independent+Fiscal+Institutions+in+the+Face+of+Rising+Public+Indebtedness.&ots=Ay85RwWy3T&sig=cffHGZcEl0jvq4I_dexaAQokmyI&redir_esc=y#v=onepage&q=Independent%20Fiscal%20Institutions%20in%20the%20Face%20of%20Rising%20Public%20Indebtedness.&f=false)
